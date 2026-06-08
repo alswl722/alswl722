@@ -57,7 +57,7 @@
 
 <div align="center">
   <h2>🧑‍💻 Contact me</h2>
-  <a href="mailto:capdiinmyear@gmail.com">
+  <a href="mailto:min7ji22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </div>
