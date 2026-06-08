@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<table align="center">
+<table align="center" width="720">
   <tr>
     <td width="160" align="center"><b>Languages</b></td>
     <td align="center">
@@ -69,20 +69,15 @@
 
 <div align="center">
 
-<table align="center">
+<table align="center" width="720">
   <tr>
-    <td width="200" align="center">
-      <a href="https://github.com/gibunijjaejo/Opensource_Project"><b>📚 서간표<br/>(Seoganpyo)</b></a><br/><br/>
+    <td width="160" align="center">
+      <a href="https://github.com/gibunijjaejo/Opensource_Project"><b>서간표<br/>(Seoganpyo)</b></a><br/><br/>
       <a href="https://github.com/gibunijjaejo/Opensource_Project"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td>
       시간표 이미지 한 장으로 <b>졸업요건 충족 여부 · 맞춤 강의 · 강의계획서 요약</b>까지 받는 AI 학업 컨설팅 플랫폼<br/>
-      <sub>🛠️ <b>담당</b> — DB 설계 · 시간표 OCR 업로드 · CRUD · AI 요약 · MCP · 모니터링(Grafana KPI)</sub><br/><br/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <sub>🛠️ <b>담당</b> — DB 설계 · 시간표 OCR 업로드 · CRUD · AI 요약 · MCP · 모니터링(Grafana KPI)</sub>
     </td>
   </tr>
 </table>
