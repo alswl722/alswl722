@@ -86,7 +86,7 @@
       <a href="https://github.com/capdiinmyear/radar-guard"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td>
-      라즈베리파이와 레이더 센서를 활용한 <b>AI 기반 IoT 모니터링 시스템</b><br/>
+      mmWave 레이더와 시계열 딥러닝(PointNet·Bi-LSTM)으로 <b>낙상을 실시간 비접촉 감지</b>하는 환자 안전 모니터링 시스템. 영상 없이 라즈베리파이 온디바이스 추론 → 즉시 알림으로 프라이버시까지 보호<br/>
       <sub><b>담당</b> — 작성 예정</sub>
     </td>
   </tr>
