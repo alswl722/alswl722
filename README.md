@@ -3,12 +3,6 @@
 </div>
 
 <div align="center">
-  <h3>세상의 불편을 코드로 풀어내는 개발자를 꿈꾸는 <b>김민지</b>입니다.</h3>
-</div>
-
-<br/>
-
-<div align="center">
   <h2>🛠️ Tech Stacks</h2>
 
   <p><b>Languages</b></p>
