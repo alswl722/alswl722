@@ -77,7 +77,7 @@
     </td>
     <td>
       시간표 이미지 한 장으로 <b>졸업요건 충족 여부 · 맞춤 강의 · 강의계획서 요약</b>까지 받는 AI 학업 컨설팅 플랫폼<br/>
-      <sub>🛠️ <b>담당</b> — DB 설계 · 시간표 OCR 업로드 · CRUD · AI 요약 · MCP · 모니터링(Grafana KPI)</sub>
+      <sub><b>담당</b> — DB 설계 · 시간표 OCR 업로드 · CRUD · AI 요약 · MCP · 모니터링(Grafana KPI)</sub>
     </td>
   </tr>
 </table>
