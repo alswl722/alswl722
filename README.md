@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>🛠️ Tech Stacks</h2>
+  <img src="./assets/title_tech.png" height="30" alt="Tech Stacks" />
 
   <p><b>Languages</b></p>
   <p>
@@ -50,7 +50,7 @@
 <br/>
 
 <div align="center">
-  <h2>🧑‍💻 Contact me</h2>
+  <img src="./assets/title_contact.png" height="30" alt="Contact me" />
   <a href="mailto:min7ji22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
   </a>
