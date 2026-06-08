@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.gif" width="760" alt="Minji's Github" />
+  <img src="./assets/header.png" width="760" alt="Minji's Github" />
 </div>
 
 <div align="center">
