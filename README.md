@@ -8,7 +8,9 @@
   <img src="./assets/title_tech.png" height="42" alt="Tech Stacks" />
 </div>
 
-<table width="100%">
+<div align="center">
+
+<table align="center">
   <tr>
     <td width="160" align="center"><b>Languages</b></td>
     <td align="center">
@@ -57,17 +59,12 @@
   </tr>
 </table>
 
+</div>
+
 <br/>
 
 <div align="center">
   <img src="./assets/title_contact.png" height="42" alt="Contact me" />
+  <br/><br/>
+  <a href="mailto:min7ji22@gmail.com"><img src="https://img.shields.io/badge/min7ji22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
-
-<table width="100%">
-  <tr>
-    <td width="160" align="center"><b>Email</b></td>
-    <td align="center">
-      <a href="mailto:min7ji22@gmail.com"><img src="https://img.shields.io/badge/min7ji22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
