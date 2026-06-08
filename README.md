@@ -16,7 +16,6 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
     </td>
@@ -87,7 +86,7 @@
     </td>
     <td>
       mmWave 레이더와 시계열 딥러닝(PointNet·Bi-LSTM)으로 <b>낙상을 실시간 비접촉 감지</b>하는 환자 안전 모니터링 시스템. 영상 없이 라즈베리파이 온디바이스 추론 → 즉시 알림으로 프라이버시까지 보호<br/>
-      <sub><b>담당</b> — 프론트엔드(실시간 대시보드 · 병상 모니터링 카드 · 재실/낙상 알림 UI · PWA) · 백엔드 API · 데이터 수집 모듈</sub>
+      <sub><b>담당</b> — 데이터 수집 모듈 · 자체 데이터셋 구축/라벨링 · 백엔드 API · 실시간 대시보드 UI</sub>
     </td>
   </tr>
 </table>
