@@ -2,6 +2,8 @@
   <img src="./assets/header.png" width="760" alt="Minji's Github" />
 </div>
 
+---
+
 <br/>
 
 <div align="center">
