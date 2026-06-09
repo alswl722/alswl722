@@ -5,6 +5,27 @@
 <br/>
 
 <div align="center">
+  <img src="./assets/title_about.png" height="42" alt="About" />
+</div>
+
+<div align="center">
+
+<table align="center" width="720">
+  <tr>
+    <td width="160" align="center"><b>학력</b></td>
+    <td>서강대학교 컴퓨터공학과 재학 중 (3학년)</td>
+  </tr>
+  <tr>
+    <td width="160" align="center"><b>자격증</b></td>
+    <td>SQLD · ADSP · 컴퓨터활용능력 1급</td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
   <img src="./assets/title_tech.png" height="42" alt="Tech Stacks" />
 </div>
 
