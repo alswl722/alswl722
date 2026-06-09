@@ -10,16 +10,15 @@
 
 <div align="center">
 
-<table align="center" width="720">
-  <tr>
-    <td width="160" align="center"><b>학력</b></td>
-    <td>서강대학교 컴퓨터공학과 재학 중 (3학년)</td>
-  </tr>
-  <tr>
-    <td width="160" align="center"><b>자격증</b></td>
-    <td>SQLD · ADSP · 컴퓨터활용능력 1급</td>
-  </tr>
-</table>
+**🎓 Education**
+
+![서강대학교 컴퓨터공학과](https://img.shields.io/badge/서강대학교_컴퓨터공학과_재학-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+**📜 Certificates**
+
+![SQLD](https://img.shields.io/badge/SQLD-03589C?style=for-the-badge&logo=databricks&logoColor=white)
+![ADSP](https://img.shields.io/badge/ADSP-00599C?style=for-the-badge&logo=simpleanalytics&logoColor=white)
+![컴퓨터활용능력 1급](https://img.shields.io/badge/컴퓨터활용능력_1급-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
 
