@@ -93,16 +93,6 @@
 <table align="center" width="720">
   <tr>
     <td width="160" align="center">
-      <a href="https://github.com/alswl722/FastApi-Todos"><b>FastAPI Todos<br/>(개인)</b></a><br/><br/>
-      <a href="https://github.com/alswl722/FastApi-Todos"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-    <td>
-      할 일·일기장 웹 서비스를 11주 동안 혼자 만들며 <b>테스트 → 정적 분석 → 모니터링 → 부하 테스트 → CI/CD</b>를 한 단계씩 쌓은 개인 프로젝트 (v1.0.0 → v7.1.0)<br/>
-      <sub><b>담당</b> — 전체 · Playwright E2E · SonarQube · Prometheus/Grafana/Loki · JMeter + InfluxDB · Jenkins 8단계 파이프라인</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="160" align="center">
       <a href="https://github.com/kuchipachi/seoganpyo"><b>서간표<br/>(Seoganpyo)</b></a><br/><br/>
       <a href="https://github.com/kuchipachi/seoganpyo"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
@@ -159,6 +149,16 @@
     <td>
       강화학습 자산배분 전략을 거래비용까지 반영해 검증하는 <b>퀀트 백테스팅 MLOps 플랫폼</b><br/>
       <sub><b>담당</b> — Feature Store · walk-forward 검증 · GitHub Actions 일일 워크플로 · S3(GitHub OIDC) · MLflow 기록</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="160" align="center">
+      <a href="https://github.com/alswl722/FastApi-Todos"><b>FastAPI Todos<br/>(개인)</b></a><br/><br/>
+      <a href="https://github.com/alswl722/FastApi-Todos"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td>
+      할 일·일기장 웹 서비스를 11주 동안 혼자 만들며 <b>테스트 → 정적 분석 → 모니터링 → 부하 테스트 → CI/CD</b>를 한 단계씩 쌓은 개인 프로젝트 (v1.0.0 → v7.1.0)<br/>
+      <sub><b>담당</b> — 전체 · Playwright E2E · SonarQube · Prometheus/Grafana/Loki · JMeter + InfluxDB · Jenkins 8단계 파이프라인</sub>
     </td>
   </tr>
 </table>
