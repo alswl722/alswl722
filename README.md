@@ -113,8 +113,8 @@
   </tr>
   <tr>
     <td width="160" align="center">
-      <b>감탄<br/>(GamTan)</b><br/><br/>
-      <sub>비공개 저장소</sub>
+      <a href="https://github.com/alswl722/GamTan-public"><b>감탄<br/>(GamTan)</b></a><br/><br/>
+      <a href="https://github.com/alswl722/GamTan-public"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td>
       거래 증빙 문서에서 탄소배출량을 산정하는 AI Agent · <b>iM:POSSIBLE Challenger 본선 진출</b><br/>
